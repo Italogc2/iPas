@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://lh4.googleusercontent.com/Jow505mcgKmssW6sp-qjbg2s9WsZKm5WXah_ITM50OzIvZsnTEXSuX_EKikgjI5MRgii6Iqs8_LdHWyF0I11v060Fx51wtAVIUeq1fWfmOS5MV9M5Cp1i_HwB2XBo92e-w=w1280</string>
+					<string>https://raw.githubusercontent.com/Italogc2/iPas/main/AppIcon76x76%402x%7Eipad.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://lh4.googleusercontent.com/Jow505mcgKmssW6sp-qjbg2s9WsZKm5WXah_ITM50OzIvZsnTEXSuX_EKikgjI5MRgii6Iqs8_LdHWyF0I11v060Fx51wtAVIUeq1fWfmOS5MV9M5Cp1i_HwB2XBo92e-w=w1280</string>
+					<string>https://raw.githubusercontent.com/Italogc2/iPas/main/AppIcon76x76%402x%7Eipad.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.tihmstar.h3lix</string>
+				<string>org.undecimus.unc0ver</string>
 				<key>bundle-version</key>
 				<string>6.1.2</string>
 				<key>kind</key>
